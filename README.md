@@ -1,6 +1,6 @@
 # myHummingPet
 A simple melody generator using math formulas and musical scales. Generates random MIDI snippets for inspiration.
-For those of us who are too shy to hum the melodies ourselves. 🐜
+For those of us who are too shy to hum the melodies ourselves 🐜
 
 ## Features
 - Choose from preset scales (e.g. Cmaj, Amin, Cpent...)
@@ -10,15 +10,15 @@ For those of us who are too shy to hum the melodies ourselves. 🐜
 
 ## Usage
 Run from terminal:
-~~~ bash
+```bash
 python main.py
-~~~
+```
 Follow the prompts to choose scale, formula, etc.
 Your `.mid` file will be saved under the `output/` folder.
 
 ## Examples
 Some favorite results are available in the `examples/` folder.
-Open them with ant MIDI player or your DAW.
+Open them with a MIDI player or your DAW.
 
 ## Environment
 Tested with:
