@@ -10,7 +10,7 @@ For those of us who are too shy to hum the melodies ourselves. 🐜
 
 ## Usage
 Run from terminal:
-~~~bash
+~~~ bash
 python main.py
 ~~~
 Follow the prompts to choose scale, formula, etc.
