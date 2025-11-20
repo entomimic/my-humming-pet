@@ -1,6 +1,5 @@
 # myHummingPet
-A simple melody generator using math formulas and musical scales. Generates random MIDI snippets for inspiration.
-For those of us who are too shy to hum the melodies ourselves 🐜
+A simple melody generator using math formulas and musical scales. Generates random MIDI snippets for inspiration
 
 ## Features
 - Choose from preset scales (e.g. Cmaj, Amin, Cpent...)
@@ -26,5 +25,3 @@ Tested with:
 - mido 1.3.3
 - numpy 2.3.4
 
-## License
-This project is licensed under the MIT License.
